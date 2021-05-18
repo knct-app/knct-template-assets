@@ -1,2 +1,2 @@
-# knct-template-assets
-template assets for knct
+# echo-template-assets
+template assets for echo
